@@ -1,3 +1,4 @@
 我是一个小可爱
 一样有意义有意义有意义
  git config --global credential.helper store
+ .
